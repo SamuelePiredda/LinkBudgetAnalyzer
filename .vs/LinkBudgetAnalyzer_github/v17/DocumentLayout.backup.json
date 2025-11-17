@@ -18,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 322,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -32,10 +28,9 @@
               "RelativeDocumentMoniker": "README.md",
               "ToolTip": "C:\\Users\\samup\\source\\repos\\LinkBudgetAnalyzer_github\\README.md",
               "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-11-17T12:09:55.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T12:09:55.648Z"
             },
             {
               "$type": "Document",
