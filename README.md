@@ -1,5 +1,5 @@
 ﻿# LinkBudgetAnalyzer
-This script Python (3.11) works together with GMAT to analyze the link margin between satellite and ground stations network on the Earth.
+This Python (3.11) script works together with GMAT to analyze the link margin between satellite and ground stations network on the Earth.
 
 
 You create the GMAT scenario including all the ground stations that you need. You perform the propagation and
