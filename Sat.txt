@@ -1,0 +1,15 @@
+﻿Satellite Gain [dBi] = 5
+Transmitting Power [W] = 1
+Satellite Cable loss [dBi] = 1
+Pointing Error [dBi] = 1
+Data rate [bps] = 76800
+Frequency [GHz] = 2.2
+Noise temperature [K] = 300
+RX Loss [dB] = 1
+Extra losses [dB] = 2
+EbN0 minimum [dB] = 15
+Margin [dB] = 3
+Data coefficient [≤1] = 1
+Probability = 0.01
+Time link opening [s]= 10
+
