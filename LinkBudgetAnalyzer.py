@@ -1,7 +1,7 @@
 ﻿"""
 
     Author:     Samuele Piredda
-    Date:       05/11/2025
+    Date:       17/11/2025
     Version:    1.0
 
     Software used for analyzing the access time with ground stations
