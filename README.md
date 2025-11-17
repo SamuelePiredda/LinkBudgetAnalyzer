@@ -7,7 +7,7 @@ create report files
 
 1) PosSat.txt
 
-This contains the position of the X,Y,Z position of the satellite, the altitude and the date time.
+This contains the X,Y,Z position of the satellite, the altitude and the date time.
 
 2) PosGS.txt
 
